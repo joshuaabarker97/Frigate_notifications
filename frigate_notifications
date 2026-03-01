@@ -1,5 +1,3 @@
-Yaml
-
 blueprint:
   name: FrigateVision - Multi-Camera Priority
   description: >
